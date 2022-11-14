@@ -32,6 +32,8 @@ This initializes the project to a state of being both ready to be ran (with the 
 To run the application open the project folder in the terminal
 Enter the command '<b>npm start</b>'
 
+For a video demonstration: [Social Network API Demo](https://drive.google.com/file/d/1wepWDo67MYA-_29LHLal7mfC5yvmx-NB/view?usp=sharing)
+
 ## Credits
 
 Rich Widtmann [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)<br>
